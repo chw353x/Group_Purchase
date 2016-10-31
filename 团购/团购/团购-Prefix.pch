@@ -1,0 +1,16 @@
+//
+//  团购-Prefix.pch
+//  团购
+//
+//  Created by chenwei on 16/9/16.
+//  Copyright © 2016年 yyjz. All rights reserved.
+//
+
+#ifndef ___Prefix_pch
+#define ___Prefix_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "CHComment.h"
+
+#endif /* ___Prefix_pch */
